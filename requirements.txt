@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+Flask-Bcrypt
+pytest
+python-dotenv
+mysqlclient
+Flask-JWT-Extended
+Flask_PyMongo
+requests
